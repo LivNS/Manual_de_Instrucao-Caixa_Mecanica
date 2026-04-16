@@ -14,9 +14,7 @@ O tampo possui uma decoração de circuito eletrônico impressa, e a alça centr
 
 | Vista frontal (fechada) | Vista lateral (fechada) |
 |:-:|:-:|
-| ![Caixa montada - frente]<img width="4032" height="3024" alt="Image (11)" src="https://github.com/user-attachments/assets/a787f546-4c0e-4ed2-86af-2f418d6b940f" />
- | ![Caixa montada - lado] <img width="4032" height="3024" alt="Image (10)" src="https://github.com/user-attachments/assets/3c3787c2-e7d6-4381-add4-a466b9508fac" />
-|
+| <img width="400" alt="Caixa montada - frente" src="https://github.com/user-attachments/assets/a787f546-4c0e-4ed2-86af-2f418d6b940f" /> | <img width="400" alt="Caixa montada - lado" src="https://github.com/user-attachments/assets/3c3787c2-e7d6-4381-add4-a466b9508fac" /> |
 ---
 
 ## Conteúdo da Caixa — Peças
