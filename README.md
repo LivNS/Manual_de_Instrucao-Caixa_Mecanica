@@ -158,4 +158,12 @@ Quando montada corretamente, o tampo fica fechado sobre as gavetas, com a alça 
 
 ---
 
+## Grupo 
+
+- Debora da Silva Amaral - RM 550412 
+- Eduardo Pielich - RM 99767 
+- Livia Namba Seraphim - RM 97819 
+- Victória Franceschini Pizza - RM 550609
+
+
 **Bom uso! 💜**
